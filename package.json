@@ -1,0 +1,21 @@
+{
+  "name": "todo-example",
+  "version": "0.0.0",
+  "description": "'TodoMVC Ember example with buildtools and tests'",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": "",
+  "author": "Trek Glowacki <trek.glowacki@gmail.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "0.4.0rc5",
+    "grunt-contrib-uglify": "~0.1.1rc5",
+    "grunt-contrib-jshint": "~0.1.1rc5",
+    "grunt-contrib-qunit": "~0.1.1rc5",
+    "grunt-ember-templates": "~0.4.2rc5",
+    "grunt-contrib-watch": "~0.2.0rc5",
+    "grunt-neuter": "git://github.com/trek/grunt-neuter.git"
+  }
+}
